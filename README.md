@@ -1,4 +1,5 @@
 # Film-Junky-Union-Sentiment-Analysis
+![IMDB_Logo_2016 svg](https://user-images.githubusercontent.com/115895428/223215670-a253ab93-e991-425a-ac5d-5547677247c8.png)
 
 ## Skills Demonstrated
     EDA
