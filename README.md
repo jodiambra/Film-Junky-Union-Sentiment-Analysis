@@ -24,4 +24,4 @@ The Film Junky Union is developing a system for filtering and categorizing movie
 Overall, we completed The Film Junky's objective of creating a model that effectively detects negative reviews. We achieved the f1 metric of 0.85. The f1 metric considers both precision and recall, so a high f1 score means the model has both high precision and high recall. We even tested the model with reviews we created ourselves as an illustration of how the model works.
 
 ## HTML Notebook
-https://rawcdn.githack.com/jodiambra/Film-Junky-Union-Sentiment-Analysis/a6248c6eaa2b69eeeb3a4a9c4957326fd6a50219/Film%20Junky%20Union.html
+https://jodiambra.github.io/Film-Junky-Union-Sentiment-Analysis/
